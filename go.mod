@@ -1,3 +1,3 @@
-module test-vscode-go-module
+module north
 
 go 1.18
