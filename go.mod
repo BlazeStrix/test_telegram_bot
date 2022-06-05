@@ -1,3 +1,3 @@
-module github.com/render-examples/go-gin-web-server
+module github.com/BlazeStrix/test_telegram_bot
 
 go 1.18
